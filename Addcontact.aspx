@@ -65,8 +65,8 @@
     <nav id="main-nav">
         <ul >
             <li id="home"><a href="Default.aspx">Home</a></li>
-            <li><a href="Addcontacts.html">Add Contacts</a></li>
-            <li><a href="Searchcontacts.html">Search</a></li>
+            <li><a href="Addcontact.aspx">Add Contacts</a></li>
+            <li><a href="Contacts.aspx">Search</a></li>
             <li><a href="About.html">About Us</a></li>
             <li><a href="Contactus.html">Contact Us</a></li>
        </ul>      

@@ -50,7 +50,7 @@
             <li><a href="Contacts.aspx">Search</a></li>
             <li><a href="About.html">About Us</a></li>
             <li><a href="Contactus.html">Contact Us</a></li>
-       </ul>       </nav>
+       </ul>         </nav>
     </div>
     </div>
     <div class="row">
